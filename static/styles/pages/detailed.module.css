@@ -1,0 +1,31 @@
+.bread_div{
+    padding: .5rem;
+    border-bottom:1px solid #eee;
+    background-color: #e1f0ff;
+}
+.detailed_title{
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 1rem;
+}
+.center{
+    text-align: center;
+}
+.detailed_content{
+    padding: 1.3rem;
+    font-size: 1rem;
+}
+.comm_box{
+    background-color: #FFF;
+    margin-left: .5rem;
+    margin-top: 1rem;
+    padding:.3rem;
+    border-radius: .3rem;
+    border:1px solid #eee;
+}
+.nav_title{
+    text-align: center;
+    color: #888;
+    border-bottom: 1px solid rgb(30, 144, 255);
+  
+  }
